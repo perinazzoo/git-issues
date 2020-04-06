@@ -22,6 +22,7 @@ Você pode testar essa aplicação em https://issues-git.netlify.com
 * <a target="_blank" href="https://styled-components.com/">Styled Components</a>
 * <a target="_blank" href="https://github.com/axios/axios">Axios</a>
 * <a target="_blank" href="https://github.com/eslint/eslint">ESLint</a>
+* <a target="_blank" href="https://github.com/facebook/prop-types">Prop-types</a>
 
 ## :wrench: Iniciando o projeto
 
