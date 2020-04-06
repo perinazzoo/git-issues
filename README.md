@@ -4,8 +4,6 @@ Git Issues
 <blockquote align="center">
 :octocat: App desenvolvido em React para salvar repositórios do Github e checar as issues do mesmo.
 </blockquote>
-<br/>
-
 <img src="./.github/1.png" />
 
 ## :thinking: Sobre o projeto
