@@ -4,6 +4,9 @@ Git Issues
 <blockquote align="center">
 :octocat: App desenvolvido em React para salvar repositórios do Github e checar as issues do mesmo.
 </blockquote>
+
+Este projeto utiliza o Gitmoji para padronização de commits, saiba o que cada emoji significa em: https://gitmoji.carloscuesta.me/
+
 <img src="./.github/1.png" />
 
 ## :mag: Sobre o projeto
