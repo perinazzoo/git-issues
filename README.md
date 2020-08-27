@@ -15,8 +15,9 @@ Este é um App onde você pode adicionar repositórios para checar, de forma rá
 
 Foi consumida a API disponibilizada pelo Github para tal.
 
-Você pode testar essa aplicação em https://issues-git.netlify.com
-Basta informar, no campo de pesquisa, `usuario/repositorio`
+Você pode testar essa aplicação em https://issues-git.netlify.com.
+
+Basta informar, no campo de pesquisa, `usuario/repositorio`. Ex.: `facebook/react`.
 
 ## :satellite: Tecnologias utilizadas
 
